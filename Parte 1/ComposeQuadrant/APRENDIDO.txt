@@ -1,0 +1,1 @@
+ComposeQuadrant: Se experimenta con la organización de elementos en cuadrantes, entendiendo la disposición de la UI en cuadrículas, que es esencial para una presentación ordenada y adaptable en aplicaciones móviles.

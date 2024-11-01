@@ -1,0 +1,1 @@
+Es un proyecto que permite desarrollar habilidades en la creación de una lista de tareas, manejando listas, inputs de usuario y estados dinámicos de cada tarea.

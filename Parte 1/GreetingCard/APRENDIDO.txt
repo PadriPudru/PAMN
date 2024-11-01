@@ -1,0 +1,1 @@
+GreetingCard: Se practica cómo estructurar y diseñar una tarjeta de saludo interactiva, utilizando texto y gráficos básicos en Compose, ayudando a reforzar el uso de elementos de interfaz básicos.

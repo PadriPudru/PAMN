@@ -1,0 +1,1 @@
+BusinessCard: Se aprende a crear una tarjeta de presentación digital usando Jetpack Compose, práctica para trabajar con componentes visuales básicos y crear interfaces de usuario personalizadas.
