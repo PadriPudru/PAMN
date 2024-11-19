@@ -1,0 +1,2 @@
+En la Unidad 3, aprendimos a manejar listas y a implementar los principios de diseño material en nuestras aplicaciones Android. Un ejemplo fue la creación de una aplicación de afirmaciones usando RecyclerView, donde entendimos cómo funcionan los adaptadores personalizados y los ViewHolders para mostrar datos de manera eficiente. También exploramos Jetpack Compose al desarrollar una aplicación de superhéroes, utilizando LazyColumn para listas más dinámicas y aprendiendo a personalizar temas y estilos según las guías de diseño moderno.
+
